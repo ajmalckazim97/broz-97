@@ -1,18 +1,1 @@
-.border_gradient__DR3pZ {
-  background: conic-gradient(
-        from var(--border-angle),
-        transparent,
-        transparent 5%,
-        transparent 60%,
-        transparent 95%
-      )
-      padding-box,
-    conic-gradient(
-        from var(--border-angle),
-        transparent 50%,
-        #8a720d,
-        #977f1700 65%,
-        transparent
-      )
-      border-box;
-}
+.border_gradient__DR3pZ{background:conic-gradient(from var(--border-angle),transparent,transparent 5%,transparent 60%,transparent 95%) padding-box,conic-gradient(from var(--border-angle),transparent 50%,#8a720d,#977f1700 65%,transparent) border-box}
